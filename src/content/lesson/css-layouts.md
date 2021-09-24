@@ -24,7 +24,7 @@ We need to use boxes for it.  A box is a container with a specific width and hei
 
 All website content should be wrapped within boxes (div, header, footer, etc.). Boxes are invisible by default so, in order to make them visible, you have to either set a background color or a border.  The following image shows how many invisible boxes a normal website has:
 
-<before-after width="500px"
+<before-after width="499px"
     before="../../assets/images/40818d0d-60c6-4ef3-a488-834f21ddebf1.png" after="../../assets/images/0c89a48e-d488-4e5c-807a-fd6b9a9179f6.png" />
 
 #### Box Attributes
